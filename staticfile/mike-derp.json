@@ -1,0 +1,19 @@
+{
+  "Regions": {
+    "901": {
+      "RegionID": 901,
+      "RegionCode": "txcloud-bj",
+      "RegionName": "tailscale-derper-txcloud-bj",
+      "Nodes": [
+        {
+          "Name": "1",
+          "RegionID": 901,
+          "DERPPort": 39362,
+          "HostName": "101.42.248.92",
+          "IPv4": "101.42.248.92",
+          "InsecureForTests": true
+        }
+      ]
+    }
+  }
+}
